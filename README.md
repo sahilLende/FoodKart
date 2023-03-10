@@ -2,7 +2,7 @@
 This is a simple FoodKart app built using React, Redux Toolkit, and Material-UI, and created with Vite.
 
 ## About the App ##
-The app allows users to browse through a list of food items and add them to their cart. The cart shows a summary of the selected items and their total cost. The app uses Redux Toolkit to manage the application state. Note that the data doesn't persist, so the cart will be reset upon page refresh.
+The app allows users to browse through a list of food items and add them to their cart. The cart shows a summary of the selected items and their total cost. The app uses Redux Toolkit to manage the application state and Material-UI for styling and components. Note that the data doesn't persist, so the cart will be reset upon page refresh.
 
 ## Demo ##
 A live demo of the app is available at https://foodkart-redux.netlify.app.
